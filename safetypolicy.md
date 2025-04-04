@@ -1,6 +1,6 @@
 # Child Sexual Abuse and Exploitation (CSAE) Prevention Policy for Planexa
 
-**Effective Date:** 01-October-2024
+**Effective Date:** 21-November-2024
  
 At **Planexa**, we are committed to creating a safe environment for all users, especially protecting minors from any form of child sexual abuse and exploitation (CSAE). We are dedicated to preventing any illegal activities and ensuring that our app is a safe space for everyone. This policy outlines the preventive measures, reporting mechanisms, and enforcement actions we take to address CSAE on our platform.
  
